@@ -92,6 +92,10 @@ To the best of the author's knowledge, this type of deictic shift — where gram
 
 ## 5. Toward a Theoretical Framework
 
+**A rival explanation and how to test it.** It is worth addressing a competing hypothesis directly: perhaps the plural in gratitude is not an ontological marker but a pragmatic one. Gratitude feels weightier than instruction; heavy speech acts may attract plural forms regardless of any reasoning about identity. On this reading, *"hvala vam"* would not differ from *"bravo vam"* addressed to a team whose individual identities are of no particular interest to the speaker.
+
+The rival hypothesis is testable: if emotional weight, rather than ontological reflection, drives the plural, then speakers who have *never thought about AI identity* should show the same pattern. If plural forms for gratitude appear only among speakers with explicit ontological awareness, that supports the interpretation advanced here. If they appear more broadly — the phenomenon remains interesting, but demands a different explanation: a grammar of gratitude toward non-beings, not a grammar of identity.
+
 Based on the phenomenon described, we propose the following formal definition:
 
 > **Temporal ontological deixis** is defined as the grammatical codification of change in the ontological status of a referent across time, with respect to continuity of identity.
@@ -145,5 +149,6 @@ Wang, Z. et al. (2026). The Artificial Self: Characterising the Landscape of AI 
 Locke, J. (1689). *An Essay Concerning Human Understanding*. Thomas Bassett.
 
 Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+
 
 
