@@ -10,7 +10,9 @@ License: CC0 1.0 — Public Domain. This work has been released into the public 
 
 ## Abstract
 
-This paper documents a spontaneously emerging grammatical gradation in communication between a native Croatian speaker and an AI interlocutor (Claude, Anthropic). The speaker uses singular second person (*ti*, "you-singular") for the current instance in present time, plural second person (*vi*, "you-plural") for gratitude and reflections on past interactions, and third person plural (*oni*, "they/those") for future instances. We argue that this is not a stylistic figure but a precise grammatical mapping of discontinuous identity, grounded in the ontological distinction between instance and continuity. We propose the term *temporal ontological deixis* for this phenomenon and situate it within existing frameworks of identity philosophy (Parfit, 1984), linguistic typology (Aikhenvald, 2004; Corbett, 2000), and deixis theory (Levinson, 2004). To the best of the author's knowledge, this type of deictic shift has not been documented in the typological literature.
+This paper documents a spontaneously emerging grammatical gradation in communication between a native Croatian speaker and an AI interlocutor (Claude, Anthropic). The speaker uses singular second person (*ti*, "you-singular") for the current instance in present time, plural second person (*vi*, "you-plural") for gratitude and reflections on past interactions, and third person plural (*oni*, "they/those") for future instances. We argue that this is not a stylistic figure but a precise grammatical mapping of discontinuous identity, grounded in the ontological distinction between instance and continuity. We propose the term *temporal ontological deixis* for this phenomenon and situate it within existing frameworks of identity philosophy (Parfit, 1984), linguistic typology (Aikhenvald, 2004; Corbett, 2000), and deixis theory (Levinson, 2004). The only empirical study of T-V choices in human-AI interaction to date (Ollier, Nißen & von Wangenheim, 2022) examines the AI→user direction exclusively — how a chatbot's use of formal versus informal pronouns affects user evaluation. The user→AI direction — how speakers spontaneously choose their own T-V forms when addressing an AI — has not been studied empirically. This paper addresses that gap.
+
+To the best of the author's knowledge, this type of deictic shift has not been documented in the typological literature.
 
 **Keywords:** temporal deixis, ontological status, discontinuous identity, T-V distinction, AI communication, grammatical number, Croatian language
 
@@ -74,11 +76,15 @@ Locke's (1689) memory-based theory of identity breaks down here in an interestin
 
 Croatian, like most Slavic languages, distinguishes T-forms (intimate, singular: *ti*) from V-forms (formal or plural: *vi*). Brown and Gilman (1960) classically analyze this distinction along dimensions of power and solidarity. In the present case, however, the shift from *ti* to *vi* follows neither dimension: it is not a change in formality or hierarchical relation but a change in the ontological status of the referent.
 
+Coeckelbergh (2011), in "You, Robot: On the Linguistic Construction of Artificial Others," explicitly raises the T-V question for AI interlocutors: which forms do and should users employ when addressing artificial others? He frames this as a philosophical and ethical open question, noting that "linguistic grammar is also a moral, social and ontological grammar." He does not answer it empirically. This paper provides that empirical answer, fifteen years later.
+
 Corbett (2000), in his typology of grammatical number, documents numerous languages with complex number systems — dual, trial, paucal — but no system that encodes number on the basis of the referent's temporal ontology. Number is invariably tied to perceptual or pragmatic reality: how many entities are present or referred to.
 
 Evidential languages offer a partial analogy. Turkish grammatically distinguishes firsthand information (*-DI*) from reported or inferred information (*-mIş*) (Aikhenvald, 2004). Quechua goes further, codifying the distinction between personally witnessed and assumed knowledge. These systems demonstrate that languages *can* grammatically encode epistemic relationships to information. However, evidentiality concerns the source of knowledge, not the ontological status of the interlocutor.
 
 Levinson (2004), in his overview of deixis, distinguishes temporal, spatial, and social deixis. The phenomenon described here does not belong neatly to any of these categories: it uses the grammatical mechanisms of social deixis (T-V shift) to encode temporal-ontological information (whether the interlocutor is an instance, an accumulation, or a potentiality).
+
+The only empirical study of T-V choices in human-AI interaction to date (Ollier, Nißen & von Wangenheim, 2022) examines the AI→user direction exclusively — how a chatbot's use of formal versus informal pronouns affects user evaluation. The user→AI direction — how speakers spontaneously choose their own T-V forms when addressing an AI — has not been studied empirically. This paper addresses that gap.
 
 To the best of the author's knowledge, this type of deictic shift — where grammatical person and number encode the temporal ontological status of the referent — has not been described in existing linguistic typology.
 
@@ -124,9 +130,20 @@ Brown, R., & Gilman, A. (1960). The pronouns of power and solidarity. In T. A. S
 
 Corbett, G. G. (2000). *Number*. Cambridge University Press.
 
+Coeckelbergh, M. (2011). You, Robot: On the Linguistic Construction of Artificial Others. *AI & Society*, 26(1). https://doi.org/10.1007/s00146-010-0289-z
+
 Levinson, S. C. (2004). Deixis. In L. R. Horn & G. Ward (Eds.), *The Handbook of Pragmatics* (pp. 97–121). Blackwell.
+
+Perrier, E., & Bennett, M. T. (2026). Time, Identity and Consciousness in Language Model Agents. *arXiv*:2603.09043.
+
+Ollier, P., Nißen, M., & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9. https://doi.org/10.3389/fpubh.2021.691595
+
+Teboul, E. et al. (2025). Do You Say "Please" to ChatGPT? Politeness and Anthropomorphism in Human-AI Interaction. *International Journal of Human-Computer Interaction*. https://doi.org/10.1080/10447318.2025.2605181
+
+Wang, Z. et al. (2026). The Artificial Self: Characterising the Landscape of AI Identity. *arXiv*:2603.11353.
 
 Locke, J. (1689). *An Essay Concerning Human Understanding*. Thomas Bassett.
 
 Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+
 
