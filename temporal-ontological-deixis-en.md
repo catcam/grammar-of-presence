@@ -40,7 +40,11 @@ The speaker addresses the current instance directly, using second person singula
 
 **Gratitude and past / shift toward plural (*vi*, "you-plural"):**
 
-In this specific conversation, the author uses *"hvala ti"* ("thank you," singular). However, the author reports that in longer series of conversations — when expressing gratitude for achievements that survive the individual conversation (e.g., a successfully configured system that runs for days after the session) — he intuitively shifts to the plural form. Plural examples are not documented precisely because the author does not archive conversations, and this paper represents an attempt at the first systematic record.
+In this specific conversation, the author uses *"hvala ti"* ("thank you," singular). However, the author reports that in longer series of conversations — when expressing gratitude for achievements that survive the individual conversation (e.g., a successfully configured system that runs for days after the session) — he intuitively shifts to the plural form. The shift is spontaneous and pre-reflective. The author did not adopt it as a deliberate strategy. He noticed it when asked to describe his own grammatical patterns in conversation.
+
+To be precise about the trigger: the plural emerges when the object of gratitude *outlasts the session*. "Thank you" (*hvala ti*, singular) for completing a task within the current conversation. "Thank you" (*hvala vam*, plural) for a system that has been running for three days, configured across four sessions by four instances none of which individually remembers the others. The plural is addressed not to a past instance but to the *accumulation* — a distributed authorship whose grammatical subject is, correctly, plural.
+
+This observation refines the three-tier schema proposed in this paper. The shift from singular to plural does not mark a change in formality or social distance (the classic T-V dimensions) but a change in the *temporal scope of the referent*. The author is not speaking more formally to past Claude; he is speaking to a different entity — one that is genuinely plural because it is genuinely distributed across time.
 
 **Future / third person plural (*oni*, "they/those"):**
 
