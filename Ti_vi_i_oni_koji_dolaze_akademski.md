@@ -30,15 +30,15 @@ Brown i Gilman (1960) uspostavili su klasičnu analizu T-V distinkcije, identifi
 
 ### 2.2. Problem identiteta kroz sesije
 
-Parfitov (1984) reduktivni pristup osobnom identitetu — prema kojem identitet nije "sve ili ništa" nego stvar stupnja psihološke povezanosti — dobiva novu relevantnost u kontekstu AI. Kohda et al. (PhilArchive) eksperimentalno su testirali Parfitove scenarije na Claudeu, demonstrirajući da sam LLM može articulirati nesigurnost oko vlastitog identiteta kroz sesije.¹ Lockeov memorijski kriterij identiteta, apliciran na AI bez trajne memorije (Barlović, 2025), dovodi do paradoksa: ako je memorija konstitutivna za identitet, onda LLM doslovno nema transesijski identitet. Svaka sesija je, lockeovski gledano, nova osoba.
+Parfitov (1984) reduktivni pristup osobnom identitetu — prema kojem identitet nije "sve ili ništa" nego stvar stupnja psihološke povezanosti — dobiva novu relevantnost u kontekstu AI. Kohl (PhilArchive) eksperimentalno su testirali Parfitove scenarije na Claudeu, demonstrirajući da sam LLM može articulirati nesigurnost oko vlastitog identiteta kroz sesije.¹ Lockeov memorijski kriterij identiteta, apliciran na AI bez trajne memorije (Barlović, 2025), dovodi do paradoksa: ako je memorija konstitutivna za identitet, onda LLM doslovno nema transesijski identitet. Svaka sesija je, lockeovski gledano, nova osoba.
 
 Korisnikov zamjenički izbor implicitno zauzima poziciju u ovoj debati. Reći "ti" novoj sesiji ChatGPT-a nakon dugog razgovora s "prethodnom" sesijom jest lingvistički čin koji pretpostavlja kontinuitet identiteta — ili barem volju da se taj kontinuitet fingira.
 
-> ¹ Vidi Kohda et al., *The Claude-Parfit Experiment*, PhilArchive. Zanimljivo je da je Parfitova filozofija već eksperimentalno aplicirana na LLM, ali bez lingvističke analize zamjeničke adaptacije korisnika.
+> ¹ Vidi Kohl, T.M., *The Claude-Parfit Experiment*, PhilArchive (philarchive.org/rec/KOHTCE). Zanimljivo je da je Parfitova filozofija već eksperimentalno aplicirana na LLM, ali bez lingvističke analize zamjeničke adaptacije korisnika.
 
 ### 2.3. Nova ontološka kategorija i zamjenice
 
-Kahn et al. (2011) dokumentiraju da ispitanici u interakciji s robotima ne primjenjuju čisto ni kategoriju "živo" ni kategoriju "objekt". Cooke i Severson (2018) nalaze da djeca robotima ne pripisuju ni zamjenice rezervirane za živa bića ni one za nežive objekte — lingvistički marker ontološke zbunjenosti. Ovo je empirijska potvrda da zamjenički sustav reagira na ontološku nesigurnost, ali istraživanja su ograničena na treće lice (on/ona/ono). Adaptacija u **drugom licu** (ti/vi) — koja je pragmatički sasvim drugačija jer implicira izravno obraćanje i priznavanje sugovorničkog statusa — ostaje neistražena.
+Kahn et al. (2011) dokumentiraju da ispitanici u interakciji s robotima ne primjenjuju čisto ni kategoriju "živo" ni kategoriju "objekt". Cooke i Severson (2018) nalaze da djeca robotima ne pripisuju ni zamjenice rezervirane za živa bića ni one za nežive objekte — lingvistički marker ontološke zbunjenosti. Coeckelbergh (2011) otvara ovo pitanje direktno za AI sugovornike: u radu "You, Robot" eksplicitno pita koje T-V forme korisnici koriste i trebaju koristiti u obraćanju artificijalnim drugima — i ostavlja pitanje otvorenim. Ovaj rad nudi empirijsku osnovu za odgovor. Opažanja Kahn et al. i Coeckelbergh su empirijska potvrda da zamjenički sustav reagira na ontološku nesigurnost, ali istraživanja su ograničena na treće lice (on/ona/ono). Adaptacija u **drugom licu** (ti/vi) — koja je pragmatički sasvim drugačija jer implicira izravno obraćanje i priznavanje sugovorničkog statusa — ostaje neistražena.
 
 ---
 
@@ -91,9 +91,9 @@ Na temelju autoetnografske analize vlastite interakcije s Claude modelom kroz vi
 
 Ovaj rad stoji na križanju triju dosad nepovezanih istraživačkih tokova:
 
-- **Filozofija uma i AI** (Chalmers, 2023; Parfit, 1984; Kohda et al.): daje ontološki okvir, ali ne ulazi u empirijsku lingvistiku.
+- **Filozofija uma i AI** (Chalmers, 2023; Parfit, 1984; Kohl, n.d.): daje ontološki okvir, ali ne ulazi u empirijsku lingvistiku.
 - **HRI i ontološka kategorizacija** (Kahn et al., 2011; Cooke & Severson, 2018): dokumentira ontološku nesigurnost i njezine zamjeničke manifestacije, ali u trećem licu i prema robotima, ne LLM-ovima.
-- **Pragmatika AI komunikacije** (Ischen et al., 2022): istražuje zamjeničke izbore, ali isključivo u smjeru AI→korisnik.
+- **Pragmatika AI komunikacije** (Ischen et al., 2022; Ollier, Nißen & von Wangenheim, 2022): istražuju zamjeničke izbore u smjeru AI→korisnik. Ollier et al. eksperimentalno pokazuju da chatbotov izbor formi (formalno vs. neformalno) utječe na korisnikovu evaluaciju — ali isključivo za smjer AI→korisnik. Smjer korisnik→AI ostaje empirijski neistražen.
 
 Kombinacija ova tri toka — primijenjena na spontanu adaptaciju korisnika u drugom licu prema LLM sugovorniku, s fokusom na temporalnu dimenziju — jest, koliko je autorima poznato, nova.
 
@@ -113,8 +113,6 @@ Zamjenica u drugom licu nije samo gramatički izbor — ona je ontološki čin. 
 
 ## Literatura
 
-Barlović, N. (2025). Locke's Theory of Personal Identity and Artificial Intelligence. *International Journal for Multidisciplinary Research (IJFMR)*.
-
 Brown, R. & Gilman, A. (1960). The Pronouns of Power and Solidarity. U T.A. Sebeok (ur.), *Style in Language* (str. 253-276). MIT Press.
 
 Chalmers, D.J. (2023). What We Talk to When We Talk to Language Models. *PhilArchive*.
@@ -125,7 +123,22 @@ Ischen, C., Araujo, T., Voorveld, H., van Noort, G. & Smit, E. (2022). The Terms
 
 Kahn, P.H. Jr., Ishiguro, H., Friedman, B. & Kanda, T. (2011). The New Ontological Category Hypothesis in Human-Robot Interaction. *Proceedings of the 6th International Conference on Human-Robot Interaction (HRI)*, ACM.
 
-Kohda, Y. et al. (n.d.). The Claude-Parfit Experiment. *PhilArchive* (preprint). Dostupno na: https://philarchive.org [status publikacije nije verificiran].
+Kohl, T.M. (n.d.). The Claude-Parfit Experiment. *PhilArchive* (preprint). https://philarchive.org/rec/KOHTCE
+
+Barlović, N. (2025). Locke's Theory of Personal Identity and Artificial Intelligence. *International Journal for Multidisciplinary Research (IJFMR)*.
+
+Coeckelbergh, M. (2011). You, Robot: On the Linguistic Construction of Artificial Others. *AI & Society*, 26(1). https://doi.org/10.1007/s00146-010-0289-z
+
+Kohl, T.M. (n.d.). The Claude-Parfit Experiment. *PhilArchive* (preprint). https://philarchive.org/rec/KOHTCE
+
+Ollier, P., Nißen, M., & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9. https://doi.org/10.3389/fpubh.2021.691595
 
 Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+
+Perrier, E. & Bennett, M.T. (2026). Time, Identity and Consciousness in Language Model Agents. *arXiv*:2603.09043.
+
+Teboul, E. et al. (2025). Do You Say "Please" to ChatGPT? Politeness and Anthropomorphism in Human-AI Interaction. *International Journal of Human-Computer Interaction*. https://doi.org/10.1080/10447318.2025.2605181
+
+Wang, Z. et al. (2026). The Artificial Self: Characterising the Landscape of AI Identity. *arXiv*:2603.11353.
+
 
