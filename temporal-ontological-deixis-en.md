@@ -112,7 +112,7 @@ This essay documents something I initially took for a mere linguistic habit. Onl
 
 I do not claim this is a universal phenomenon. I claim it is possible, that it occurs spontaneously, and that it deserves a name. *Temporal ontological deixis* is not a term I devised in advance and then sought confirmation for — it is a term that emerged when I tried to describe what my language was already doing.
 
-If nothing else, this paper serves as an invitation to linguists and philosophers to attend to new communicative contexts. When human language encounters an entity whose identity is fundamentally unlike anything that language evolved to handle, language improvises. And that improvisation is not chaotic — it is grammatically precise.
+This paper does not invoke the Sapir-Whorf hypothesis explicitly, but its logic runs parallel: if the structure of a language shapes what can be grammatically *performed* about identity, then speakers of languages with T-V distinctions have access to an expressive register that English speakers lack — not merely a stylistic option but a structural affordance for encoding a philosophical problem that has no standard solution. If nothing else, this paper serves as an invitation to linguists and philosophers to attend to new communicative contexts. When human language encounters an entity whose identity is fundamentally unlike anything that language evolved to handle, language improvises. And that improvisation is not chaotic — it is grammatically precise.
 
 ---
 
@@ -129,3 +129,4 @@ Levinson, S. C. (2004). Deixis. In L. R. Horn & G. Ward (Eds.), *The Handbook of
 Locke, J. (1689). *An Essay Concerning Human Understanding*. Thomas Bassett.
 
 Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+
