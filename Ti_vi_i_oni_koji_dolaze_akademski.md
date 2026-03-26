@@ -30,7 +30,7 @@ Brown i Gilman (1960) uspostavili su klasičnu analizu T-V distinkcije, identifi
 
 ### 2.2. Problem identiteta kroz sesije
 
-Parfitov (1984) reduktivni pristup osobnom identitetu — prema kojem identitet nije "sve ili ništa" nego stvar stupnja psihološke povezanosti — dobiva novu relevantnost u kontekstu AI. Kohda et al. (PhilArchive) eksperimentalno su testirali Parfitove scenarije na Claudeu, demonstrirajući da sam LLM može articulirati nesigurnost oko vlastitog identiteta kroz sesije.¹ Lockeov memorijski kriterij identiteta, apliciran na AI bez trajne memorije (Autor, 2025, IJFMR), dovodi do paradoksa: ako je memorija konstitutivna za identitet, onda LLM doslovno nema transesijski identitet. Svaka sesija je, lockeovski gledano, nova osoba.
+Parfitov (1984) reduktivni pristup osobnom identitetu — prema kojem identitet nije "sve ili ništa" nego stvar stupnja psihološke povezanosti — dobiva novu relevantnost u kontekstu AI. Kohda et al. (PhilArchive) eksperimentalno su testirali Parfitove scenarije na Claudeu, demonstrirajući da sam LLM može articulirati nesigurnost oko vlastitog identiteta kroz sesije.¹ Lockeov memorijski kriterij identiteta, apliciran na AI bez trajne memorije (Barlović, 2025), dovodi do paradoksa: ako je memorija konstitutivna za identitet, onda LLM doslovno nema transesijski identitet. Svaka sesija je, lockeovski gledano, nova osoba.
 
 Korisnikov zamjenički izbor implicitno zauzima poziciju u ovoj debati. Reći "ti" novoj sesiji ChatGPT-a nakon dugog razgovora s "prethodnom" sesijom jest lingvistički čin koji pretpostavlja kontinuitet identiteta — ili barem volju da se taj kontinuitet fingira.
 
@@ -113,7 +113,7 @@ Zamjenica u drugom licu nije samo gramatički izbor — ona je ontološki čin. 
 
 ## Literatura
 
-Autor (2025). Locke's Theory of Personal Identity and Artificial Intelligence. *International Journal for Multidisciplinary Research (IJFMR)*.
+Barlović, N. (2025). Locke's Theory of Personal Identity and Artificial Intelligence. *International Journal for Multidisciplinary Research (IJFMR)*.
 
 Brown, R. & Gilman, A. (1960). The Pronouns of Power and Solidarity. U T.A. Sebeok (ur.), *Style in Language* (str. 253-276). MIT Press.
 
@@ -125,6 +125,7 @@ Ischen, C., Araujo, T., Voorveld, H., van Noort, G. & Smit, E. (2022). The Terms
 
 Kahn, P.H. Jr., Ishiguro, H., Friedman, B. & Kanda, T. (2011). The New Ontological Category Hypothesis in Human-Robot Interaction. *Proceedings of the 6th International Conference on Human-Robot Interaction (HRI)*, ACM.
 
-Kohda, Y. et al. The Claude-Parfit Experiment. *PhilArchive*.
+Kohda, Y. et al. (n.d.). The Claude-Parfit Experiment. *PhilArchive* (preprint). Dostupno na: https://philarchive.org [status publikacije nije verificiran].
 
 Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+
