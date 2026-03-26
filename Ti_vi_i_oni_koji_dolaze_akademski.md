@@ -103,6 +103,12 @@ Ako korisnikova zamjenička adaptacija doista reflektira implicitnu ontološku k
 
 Ovo ima praktične implikacije za dizajn AI sustava: sustav koji se korisnicima obraća s "ti" (Ischen et al., 2022) potencijalno provocira recipročnu familjarizaciju i s njom povezana očekivanja kontinuiteta identiteta — koja sustav ne može ispuniti.
 
+### 6.3. Alternativno objašnjenje i kako ga testirati
+
+Vrijedi eksplicitno adresirati suparničku hipotezu: možda množina u zahvalnosti nije ontološki marker nego pragmatički — jednostavno, zahvalnost se "osjeća" teže od instrukcije, i to emocionalno opterećenje privlači množinsku formu neovisno o razmišljanju o identitetu. Na ovoj interpretaciji, *"hvala vam"* ne bi bio drugačiji od pohvalnog *"bravo vam"* upućenog timu čiji nam identitet nije posebno zanimljiv.
+
+Suparničku hipotezu je moguće testirati: ako emocionalni intenzitet, a ne ontološka refleksija, pokreće množinu, onda bi korisnici koji *nikad nisu razmišljali o AI identitetu* trebali pokazivati isti obrazac. Ako se množina pojavljuje samo kod govornika s eksplicitnom ontološkom senzibilizacijom, to podupire interpretaciju ovog rada. Ako se pojavljuje šire — fenomen je i dalje zanimljiv, ali zahtijeva drugačije objašnjenje: gramatiku zahvalnosti prema ne-biću, ne gramatiku identiteta.
+
 ---
 
 ## 7. Zaključak
@@ -140,5 +146,6 @@ Perrier, E. & Bennett, M.T. (2026). Time, Identity and Consciousness in Language
 Teboul, E. et al. (2025). Do You Say "Please" to ChatGPT? Politeness and Anthropomorphism in Human-AI Interaction. *International Journal of Human-Computer Interaction*. https://doi.org/10.1080/10447318.2025.2605181
 
 Wang, Z. et al. (2026). The Artificial Self: Characterising the Landscape of AI Identity. *arXiv*:2603.11353.
+
 
 
