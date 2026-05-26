@@ -1,3 +1,7 @@
+**Published on Medium:** https://medium.com/@catcam_46604/who-are-you-talking-to-when-you-say-you-6a5ecad13cdf
+
+---
+
 # Who are you talking to when you say "you"?
 
 *On pronouns, language models, and a grammatical problem nobody named yet*
