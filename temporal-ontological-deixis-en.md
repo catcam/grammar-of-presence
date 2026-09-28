@@ -140,7 +140,7 @@ Levinson, S. C. (2004). Deixis. In L. R. Horn & G. Ward (Eds.), *The Handbook of
 
 Perrier, E., & Bennett, M. T. (2026). Time, Identity and Consciousness in Language Model Agents. *arXiv*:2603.09043.
 
-Ollier, P., Nißen, M., & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9. https://doi.org/10.3389/fpubh.2021.691595
+Ollier, J., Nißen, M., & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9. https://doi.org/10.3389/fpubh.2021.691595
 
 Teboul, E. et al. (2025). Do You Say "Please" to ChatGPT? Politeness and Anthropomorphism in Human-AI Interaction. *International Journal of Human-Computer Interaction*. https://doi.org/10.1080/10447318.2025.2605181
 

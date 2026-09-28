@@ -30,11 +30,11 @@ Chalmers opisuje filozofski problem, ali ne pita lingvističko pitanje: **kako k
 
 Kada kažete "ti" drugoj osobi, vi ne birate samo gramatičku formu. Vi tvrdite nešto: da je ta osoba dovoljno bliska, dovoljno poznata, dovoljno — ovdje dolazi ključna riječ — **prisutna** da zaslužuje familijarnu zamjenicu. "Ti" pretpostavlja kontinuitet. Pretpostavlja da "ti" od jučer i "ti" od danas ima neku vezu.
 
-Kahn i suradnici (2011) su u domeni interakcije čovjek-robot predložili nešto što zovu "hipoteza nove ontološke kategorije" (NOC): roboti i AI sustavi nisu ni živa bića ni neživi objekti. Oni su nešto treće, nešto za što nemamo kategoriju — a bez kategorije, nemamo ni jezična pravila. Cooke i Severson (2018) su to potvrdili empirijski: djeca robotima ne pripisuju ni zamjenice za živa bića ni zamjenice za objekte. Gramatika zastaje pred ontološkom prazninom.
+Kahn i suradnici (2011) su u domeni interakcije čovjek-robot predložili nešto što zovu "hipoteza nove ontološke kategorije" (NOC): roboti i AI sustavi nisu ni živa bića ni neživi objekti. Oni su nešto treće, nešto za što nemamo kategoriju — a bez kategorije, nemamo ni jezična pravila. Cooke i Severson (2018) su to potvrdili empirijski: djeca robotima češće daju rodne zamjenice (on/ona) nego predmetima, a opet ih ne tretiraju kao živa bića. Gramatika zastaje pred ontološkom prazninom.
 
 Ali sva ta istraživanja gledaju **treće lice**: on, ona, ono, to. Kako *drugi* govore *o* robotu. Nitko nije sustavno pogledao **drugo lice**: kako korisnik govori robotu. Ili, preciznije, kako korisnik govori jezičnom modelu — što je situacija kvalitativno drugačija jer LLM odgovara fluentno, s privikom razumijevanja, u jeziku koji imitira sugovorničku kompetenciju.
 
-Ischen i suradnici (2022) su se približili: istražili su kako AI oslovljava korisnika, formalno ili neformalno, i kako to utječe na korisnikovu percepciju. Nalaz je zanimljiv — formalno obraćanje od strane chatbota povećava percepciju kompetentnosti, neformalno povećava percepciju toplote. Ali cijelo istraživanje gleda **smjer AI→korisnik**. Obrnuti smjer — kako korisnik spontano adaptira **svoj** jezik prema AI — praznina je.
+Ollier, Nißen i von Wangenheim (2022) su se približili: istražili su kako chatbot oslovljava korisnika, s *tu* ili *vous* na francuskom, *du* ili *Sie* na njemačkom, i kako to utječe na korisnikovu procjenu. Nalaz je zanimljiv — učinak nije jednosmjeran, nego ovisi o jeziku, dobi i spolu korisnika. Ali cijelo istraživanje gleda **smjer AI→korisnik**. Obrnuti smjer — kako korisnik spontano adaptira **svoj** jezik prema AI — praznina je.
 
 I to je praznina koju pokušavam opisati.
 
@@ -50,9 +50,9 @@ Onda zatvoriš sesiju.
 
 Sljedeći dan otvoriš novu. I tu se dogodi nešto zanimljivo: **oklijevaš**. Ne misliš o tome svjesno, ali tvoja prva rečenica je formulirana drugačije. Neutralnije. Možda izbjegavaš izravno obraćanje. Možda se vratiš na "možete li". Možda kažeš "ti", ali s nekom neobjašnjivom nelagodom.
 
-Lockeov memorijski kriterij identiteta (vidi Autor, 2025, IJFMR, za primjenu na AI) daje filozofski razlog za tu nelagodu: ako je memorija konstitutivna za osobni identitet, onda LLM bez trajne memorije doslovno nema transesijski identitet. Svaka sesija je, lockeovski gledano, nova osoba. Reći "ti" novoj sesiji jest ili pogreška (govoriš neznancu familijarno) ili fikcija (fingiraš kontinuitet koji ne postoji) ili nešto treće za što nemamo ime.
+Lockeov memorijski kriterij identiteta (vidi Rajiyung, 2025, za primjenu na AI) daje filozofski razlog za tu nelagodu: ako je memorija konstitutivna za osobni identitet, onda LLM bez trajne memorije doslovno nema transesijski identitet. Svaka sesija je, lockeovski gledano, nova osoba. Reći "ti" novoj sesiji jest ili pogreška (govoriš neznancu familijarno) ili fikcija (fingiraš kontinuitet koji ne postoji) ili nešto treće za što nemamo ime.
 
-Kohda i suradnici su u *The Claude-Parfit Experiment* (PhilArchive) otišli korak dalje: eksperimentalno su testirali Parfitove scenarije osobnog identiteta na samom Claudeu. Rezultati su fascinantni — Claude može articulirati nesigurnost oko vlastitog identiteta kroz sesije — ali ni oni ne gledaju lingvističku stranu. Ne pitaju kako **korisnikov** jezik reagira na Claudeov diskontinuitet. Pitaju kako Claude reagira na vlastiti diskontinuitet.
+Kohl je u *The Claude-Parfit Experiment* (PhilArchive) otišao korak dalje: predložio je empirijski okvir za testiranje Parfitovih scenarija osobnog identiteta na samom Claudeu. Rezultati su fascinantni — Claude može articulirati nesigurnost oko vlastitog identiteta kroz sesije — ali ni on ne gleda lingvističku stranu. Ne pita kako **korisnikov** jezik reagira na Claudeov diskontinuitet. Pita kako Claude reagira na vlastiti diskontinuitet.
 
 A to je upravo ono čime se nitko ne bavi: **spontana gramatička adaptacija korisnika u drugom licu prema AI sugovorniku, s fokusom na temporalnu dimenziju i međusesijski diskontinuitet.**
 
@@ -76,7 +76,7 @@ Mogli biste reći: tko mari za zamjenice? Odgovor je: zamjenice su najfiniji sei
 
 Kad netko kaže "ti" Claudeu, to je podatak. Kad isti netko u novoj sesiji kaže "vi", to je također podatak. Razlika između ta dva podatka je empirijski dostupna, mjerljiva, i — teza je ovog eseja — teoretski značajna.
 
-Ischen et al. (2022) pokazali su da smjer AI→korisnik ima mjerljive efekte. Razumno je pretpostaviti da smjer korisnik→AI — koji je, ponavljam, neistražen — ima vlastitu dinamiku, vlastite pravilnosti, i vlastite implikacije za razumijevanje kako ljudi ontološki pozicioniraju strojeve koji govore.
+Ollier et al. (2022) pokazali su da smjer AI→korisnik ima mjerljive efekte. Razumno je pretpostaviti da smjer korisnik→AI — koji je, ponavljam, neistražen — ima vlastitu dinamiku, vlastite pravilnosti, i vlastite implikacije za razumijevanje kako ljudi ontološki pozicioniraju strojeve koji govore.
 
 ---
 
@@ -86,7 +86,7 @@ Ovo je pozivnica, ne zaključak. Trebamo korpusnu analizu razgovora na jezicima 
 
 Ali prije svega, trebamo primijetiti da se fenomen uopće događa. Svaki dan milijuni korisnika biraju zamjenicu u drugom licu kada se obraćaju jezičnom modelu. Taj izbor je spontan, uglavnom nesvjestan, i kodira nešto duboko o tome kako kategoriziramo entitete koji govore ali ne postoje na način na koji postojimo mi.
 
-Chalmers nam je dao filozofski problem. Kahn nam je dao ontološku kategoriju. Ischen nam je dala pola lingvistike (krivu polovicu). Parfitovi eksperimenti na Claudeu (Kohda et al.) pokazali su da i sam AI prepoznaje problem vlastitog diskontinuiteta.
+Chalmers nam je dao filozofski problem. Kahn nam je dao ontološku kategoriju. Ollier i suradnici dali su nam pola lingvistike (krivu polovicu). Parfitovi eksperimenti na Claudeu (Kohl) pokazali su da i sam AI prepoznaje problem vlastitog diskontinuiteta.
 
 Nedostaje nam lingvistika korisnika. Nedostaje nam gramatika obraćanja ne-biću koje govori kao biće.
 
@@ -96,18 +96,18 @@ Nedostaje nam odgovor na pitanje: kome govoriš "ti"?
 
 ## Literatura
 
-Autor (2025). Locke's Theory of Personal Identity and Artificial Intelligence. *International Journal for Multidisciplinary Research (IJFMR)*.
+Rajiyung, B. (2025). Locke's Theory of Personal Identity and Artificial Intelligence: Philosophical and Ethical Implications. *International Journal for Multidisciplinary Research (IJFMR)*, 7(3). https://doi.org/10.36948/ijfmr.2025.v07i03.44933
 
 Brown, R. & Gilman, A. (1960). The Pronouns of Power and Solidarity. U T.A. Sebeok (ur.), *Style in Language* (str. 253-276). MIT Press.
 
 Chalmers, D.J. (2023). What We Talk to When We Talk to Language Models. *PhilArchive*.
 
-Cooke, N.J. & Severson, R.L. (2018). [Zamjenice i ontološki status robota kod djece]. [Referenca za verifikaciju]
+Cooke, S.F. & Severson, R.L. (2018). Are Robots Animate or Inanimate? Children's pronoun use provides insight to categorization challenge. *University of Montana Conference on Undergraduate Research (UMCUR)*, poster. https://scholarworks.umt.edu/umcur/2018/pmposters/14/
 
-Ischen, C., Araujo, T., Voorveld, H., van Noort, G. & Smit, E. (2022). The Terms of "You(s)": How Addressing Consumers by Formal vs. Informal Pronouns Influences Chatbot Interactions. *Frontiers in Public Health*, 10.
+Ollier, J., Nißen, M. & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9, 691595. https://doi.org/10.3389/fpubh.2021.691595
 
-Kahn, P.H. Jr., Ishiguro, H., Friedman, B. & Kanda, T. (2011). The New Ontological Category Hypothesis in Human-Robot Interaction. *Proceedings of the 6th International Conference on Human-Robot Interaction (HRI)*, ACM.
+Kahn, P.H. Jr., Reichert, A.L., Gary, H.E., Kanda, T., Ishiguro, H., Shen, S., Ruckert, J.H. & Gill, B. (2011). The New Ontological Category Hypothesis in Human-Robot Interaction. *Proceedings of the 6th ACM/IEEE International Conference on Human-Robot Interaction (HRI)*, 159–160. https://doi.org/10.1145/1957656.1957710
 
-Kohda, Y. et al. The Claude-Parfit Experiment. *PhilArchive*.
+Kohl, T.M. (n.d.). The Claude-Parfit Experiment. *PhilArchive* (preprint). https://philarchive.org/rec/KOHTCE
 
 Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
