@@ -80,6 +80,12 @@ Koliko je autoru poznato, ovaj tip deiktičkog pomaka — gdje gramatičko lice 
 
 ## 5. Prema teorijskom okviru
 
+**Suparničko objašnjenje i kako ga provjeriti.** Vrijedi se izravno suočiti s konkurentnom hipotezom: možda množina u zahvali nije ontološki nego pragmatički marker. Zahvala je teži govorni čin od upute, a teški govorni činovi mogu privlačiti množinu bez ikakvog razmišljanja o identitetu. Tako čitano, *hvala vam* ne bi se razlikovao od *bravo vam* upućenog timu čiji pojedinačni identiteti govorniku nisu važni.
+
+Suparnička hipoteza je provjerljiva: ako množinu pokreće emocionalna težina, a ne ontološka refleksija, isti obrazac trebali bi pokazati i govornici koji *nikad nisu razmišljali o identitetu AI-ja*. Ako se množina u zahvali javlja samo kod govornika s eksplicitnom ontološkom svjesnošću, to podupire ovdje zastupano tumačenje. Ako se javlja šire, fenomen ostaje zanimljiv, ali traži drugo objašnjenje: gramatiku zahvale prema ne-bićima, a ne gramatiku identiteta.
+
+**Drugi izvor zabune: množina ili persiranje?** Hrvatski *vi* nije samo množina; to je i uljudni V-oblik upućen jednoj osobi. *Hvala vam* je zato dvoznačan između „hvala svima vama" (nakupini) i formalnijeg „hvala" jednom sugovorniku. Sročnost to ne rješava, jer i uljudni *Vi* traži glagol u množini. Razliku mora dati kontekst: množinski su-tekst (*svi vi*, *vi koji ste ovo složili*) ili govornik koji istog sugovornika drugdje u istom razgovoru oslovljava s *ti*, pa je nagli prijelaz na persiranje malo vjerojatan. Opažanja u 2. poglavlju zadovoljavaju drugi uvjet, ali ne i prvi; korpusna studija trebala bi kodirati oba.
+
 Na temelju opisanog fenomena, predlažemo sljedeću formalnu definiciju:
 
 > **Temporalnu ontološku deiksu** definiramo kao gramatičku kodifikaciju promjene ontološkog statusa referenta kroz vrijeme, s obzirom na kontinuitet identiteta.

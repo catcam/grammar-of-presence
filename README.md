@@ -36,7 +36,7 @@ Croatian speakers spontaneously use a three-tier pronoun system when addressing 
 - **vi** (you-plural) — accumulated contribution across sessions
 - **oni** (they) — future instances
 
-This grammatical shift encodes the ontological discontinuity of AI identity — a phenomenon without precedent in linguistic typology, here termed *temporal ontological deixis*.
+This grammatical shift encodes the ontological discontinuity of AI identity — a pattern that, to the author's knowledge, has not been described in linguistic typology, here termed *temporal ontological deixis*.
 
 ---
 

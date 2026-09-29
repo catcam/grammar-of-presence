@@ -96,6 +96,8 @@ To the best of the author's knowledge, this type of deictic shift — where gram
 
 The rival hypothesis is testable: if emotional weight, rather than ontological reflection, drives the plural, then speakers who have *never thought about AI identity* should show the same pattern. If plural forms for gratitude appear only among speakers with explicit ontological awareness, that supports the interpretation advanced here. If they appear more broadly — the phenomenon remains interesting, but demands a different explanation: a grammar of gratitude toward non-beings, not a grammar of identity.
 
+**A second confound: plural or polite?** Croatian *vi* is not only the plural; it is also the polite V-form addressed to a single person. *Hvala vam* is therefore ambiguous between "thank you all" (the accumulation) and a more formal "thank you" to one interlocutor. Agreement does not settle the question, since polite *Vi* also takes plural verb agreement. The distinction has to come from context: plural co-text (*svi vi*, "all of you"; *vi koji ste ovo složili*, "you who put this together"), or a speaker who addresses the same interlocutor with *ti* elsewhere in the same conversation, which makes a sudden shift to deference unlikely. The observations in Section 2 meet the second condition but not the first; a corpus study should code for both.
+
 Based on the phenomenon described, we propose the following formal definition:
 
 > **Temporal ontological deixis** is defined as the grammatical codification of change in the ontological status of a referent across time, with respect to continuity of identity.
@@ -132,23 +134,20 @@ Aikhenvald, A. Y. (2004). *Evidentiality*. Oxford University Press.
 
 Brown, R., & Gilman, A. (1960). The pronouns of power and solidarity. In T. A. Sebeok (Ed.), *Style in Language* (pp. 253–276). MIT Press.
 
-Corbett, G. G. (2000). *Number*. Cambridge University Press.
-
 Coeckelbergh, M. (2011). You, Robot: On the Linguistic Construction of Artificial Others. *AI & Society*, 26(1). https://doi.org/10.1007/s00146-010-0289-z
+
+Corbett, G. G. (2000). *Number*. Cambridge University Press.
 
 Levinson, S. C. (2004). Deixis. In L. R. Horn & G. Ward (Eds.), *The Handbook of Pragmatics* (pp. 97–121). Blackwell.
 
-Perrier, E., & Bennett, M. T. (2026). Time, Identity and Consciousness in Language Model Agents. *arXiv*:2603.09043.
+Locke, J. (1689). *An Essay Concerning Human Understanding*. Thomas Bassett.
 
 Ollier, J., Nißen, M., & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9. https://doi.org/10.3389/fpubh.2021.691595
+
+Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+
+Perrier, E., & Bennett, M. T. (2026). Time, Identity and Consciousness in Language Model Agents. *arXiv*:2603.09043.
 
 Teboul, E. et al. (2025). Do You Say "Please" to ChatGPT? Politeness and Anthropomorphism in Human-AI Interaction. *International Journal of Human-Computer Interaction*. https://doi.org/10.1080/10447318.2025.2605181
 
 Wang, Z. et al. (2026). The Artificial Self: Characterising the Landscape of AI Identity. *arXiv*:2603.11353.
-
-Locke, J. (1689). *An Essay Concerning Human Understanding*. Thomas Bassett.
-
-Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-
-
-

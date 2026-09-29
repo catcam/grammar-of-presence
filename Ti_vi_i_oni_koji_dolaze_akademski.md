@@ -123,19 +123,15 @@ Brown, R. & Gilman, A. (1960). The Pronouns of Power and Solidarity. U T.A. Sebe
 
 Chalmers, D.J. (2023). What We Talk to When We Talk to Language Models. *PhilArchive*.
 
-Cooke, S.F. & Severson, R.L. (2018). Are Robots Animate or Inanimate? Children's pronoun use provides insight to categorization challenge. *University of Montana Conference on Undergraduate Research (UMCUR)*, poster. https://scholarworks.umt.edu/umcur/2018/pmposters/14/
+Coeckelbergh, M. (2011). You, Robot: On the Linguistic Construction of Artificial Others. *AI & Society*, 26(1). https://doi.org/10.1007/s00146-010-0289-z
 
-Ollier, J., Nißen, M. & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9, 691595. https://doi.org/10.3389/fpubh.2021.691595
+Cooke, S.F. & Severson, R.L. (2018). Are Robots Animate or Inanimate? Children's pronoun use provides insight to categorization challenge. *University of Montana Conference on Undergraduate Research (UMCUR)*, poster. https://scholarworks.umt.edu/umcur/2018/pmposters/14/
 
 Kahn, P.H. Jr., Reichert, A.L., Gary, H.E., Kanda, T., Ishiguro, H., Shen, S., Ruckert, J.H. & Gill, B. (2011). The New Ontological Category Hypothesis in Human-Robot Interaction. *Proceedings of the 6th ACM/IEEE International Conference on Human-Robot Interaction (HRI)*, 159–160. https://doi.org/10.1145/1957656.1957710
 
 Kohl, T.M. (n.d.). The Claude-Parfit Experiment. *PhilArchive* (preprint). https://philarchive.org/rec/KOHTCE
 
-Rajiyung, B. (2025). Locke's Theory of Personal Identity and Artificial Intelligence: Philosophical and Ethical Implications. *International Journal for Multidisciplinary Research (IJFMR)*, 7(3). https://doi.org/10.36948/ijfmr.2025.v07i03.44933
-
-Coeckelbergh, M. (2011). You, Robot: On the Linguistic Construction of Artificial Others. *AI & Society*, 26(1). https://doi.org/10.1007/s00146-010-0289-z
-
-Kohl, T.M. (n.d.). The Claude-Parfit Experiment. *PhilArchive* (preprint). https://philarchive.org/rec/KOHTCE
+Ollier, J., Nißen, M. & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9, 691595. https://doi.org/10.3389/fpubh.2021.691595
 
 Ollier, J., Nißen, M., & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9. https://doi.org/10.3389/fpubh.2021.691595
 
@@ -143,9 +139,8 @@ Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 
 Perrier, E. & Bennett, M.T. (2026). Time, Identity and Consciousness in Language Model Agents. *arXiv*:2603.09043.
 
+Rajiyung, B. (2025). Locke's Theory of Personal Identity and Artificial Intelligence: Philosophical and Ethical Implications. *International Journal for Multidisciplinary Research (IJFMR)*, 7(3). https://doi.org/10.36948/ijfmr.2025.v07i03.44933
+
 Teboul, E. et al. (2025). Do You Say "Please" to ChatGPT? Politeness and Anthropomorphism in Human-AI Interaction. *International Journal of Human-Computer Interaction*. https://doi.org/10.1080/10447318.2025.2605181
 
 Wang, Z. et al. (2026). The Artificial Self: Characterising the Landscape of AI Identity. *arXiv*:2603.11353.
-
-
-

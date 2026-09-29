@@ -124,8 +124,6 @@ If nothing else, this paper serves as an invitation to linguists and philosopher
 
 Aikhenvald, A. Y. (2004). *Evidentiality*. Oxford University Press.
 
-Rajiyung, B. (2025). Locke's Theory of Personal Identity and Artificial Intelligence: Philosophical and Ethical Implications. *International Journal for Multidisciplinary Research (IJFMR)*, 7(3). https://doi.org/10.36948/ijfmr.2025.v07i03.44933
-
 Brown, R., & Gilman, A. (1960). The pronouns of power and solidarity. In T. A. Sebeok (Ed.), *Style in Language* (pp. 253–276). MIT Press.
 
 Corbett, G. G. (2000). *Number*. Cambridge University Press.
@@ -139,3 +137,5 @@ Levinson, S. C. (2004). Deixis. In L. R. Horn & G. Ward (Eds.), *The Handbook of
 Locke, J. (1689). *An Essay Concerning Human Understanding*. Thomas Bassett.
 
 Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+
+Rajiyung, B. (2025). Locke's Theory of Personal Identity and Artificial Intelligence: Philosophical and Ethical Implications. *International Journal for Multidisciplinary Research (IJFMR)*, 7(3). https://doi.org/10.36948/ijfmr.2025.v07i03.44933

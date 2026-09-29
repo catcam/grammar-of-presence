@@ -123,16 +123,16 @@ Zamjenica u drugom licu nije samo gramatički izbor — ona je ontološki čin. 
 
 ## Literatura
 
-Rajiyung, B. (2025). Locke's Theory of Personal Identity and Artificial Intelligence: Philosophical and Ethical Implications. *International Journal for Multidisciplinary Research (IJFMR)*, 7(3). https://doi.org/10.36948/ijfmr.2025.v07i03.44933
-
 Brown, R. & Gilman, A. (1960). The Pronouns of Power and Solidarity. U T.A. Sebeok (ur.), *Style in Language* (str. 253-276). MIT Press.
 
 Chalmers, D.J. (2023). What We Talk to When We Talk to Language Models. *PhilArchive*.
-
-Ollier, J., Nißen, M. & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9, 691595. https://doi.org/10.3389/fpubh.2021.691595
 
 Kahn, P.H. Jr., Reichert, A.L., Gary, H.E., Kanda, T., Ishiguro, H., Shen, S., Ruckert, J.H. & Gill, B. (2011). The New Ontological Category Hypothesis in Human-Robot Interaction. *Proceedings of the 6th ACM/IEEE International Conference on Human-Robot Interaction (HRI)*, 159–160. https://doi.org/10.1145/1957656.1957710
 
 Kohl, T.M. (n.d.). The Claude-Parfit Experiment. *PhilArchive* (preprint). https://philarchive.org/rec/KOHTCE
 
+Ollier, J., Nißen, M. & von Wangenheim, F. (2022). The Terms of "You(s)": How the Term of Address Used by Conversational Agents Influences User Evaluations in French and German Linguaculture. *Frontiers in Public Health*, 9, 691595. https://doi.org/10.3389/fpubh.2021.691595
+
 Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
+
+Rajiyung, B. (2025). Locke's Theory of Personal Identity and Artificial Intelligence: Philosophical and Ethical Implications. *International Journal for Multidisciplinary Research (IJFMR)*, 7(3). https://doi.org/10.36948/ijfmr.2025.v07i03.44933
