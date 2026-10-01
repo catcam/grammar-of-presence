@@ -11,7 +11,7 @@
 | Platform | Link |
 |---|---|
 | **Medium** | [Who are you talking to when you say "you"?](https://medium.com/@catcam_46604/who-are-you-talking-to-when-you-say-you-6a5ecad13cdf) |
-| **Zenodo (open access)** | [DOI: 10.5281/zenodo.19237831](https://zenodo.org/records/19237831) |
+| **Zenodo (open access)** | [DOI: 10.5281/zenodo.19237830](https://doi.org/10.5281/zenodo.19237830) (all versions, resolves to latest; v2: [10.5281/zenodo.23081488](https://zenodo.org/records/23081488)) |
 
 ---
 
